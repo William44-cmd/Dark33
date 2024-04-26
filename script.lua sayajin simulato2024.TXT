@@ -1,3 +1,5 @@
+local Lib loadstring(gane: HttpGet("https://raw.githubusercontent.com/7yhx/hwangs 01 Library/main/source.lue"))()
+
 -- Create a table to store players
 players = {}
 
